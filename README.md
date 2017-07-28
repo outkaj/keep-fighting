@@ -8,7 +8,7 @@ Site deployed using [Surge.sh](http://surge.sh/).
 
 To run:
 
-After cloning the project, run `python app.py` from the project's root directory. You should see this output:
+After cloning the project, run `python app.py` from the root directory. You should see this output:
 
 ```
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
@@ -17,4 +17,4 @@ After cloning the project, run `python app.py` from the project's root directory
 * Debugger PIN: 644-360-566
 ```
 
-Now navigate to `http://www.keep-fighting.surge.sh` in your browser.
+Now navigate to [the action site](http://www.keep-fighting.surge.sh) in your browser.
